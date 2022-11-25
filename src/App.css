@@ -1,0 +1,50 @@
+nav{
+  
+  display: flex;
+  
+  background-color: black;
+  height: 50px;
+  
+
+
+}
+
+ul{
+  display: flex;
+  margin-left: 25%;
+  
+}
+li{
+  margin: 8px;
+  list-style: none;
+
+  
+   
+}
+a{
+  text-decoration-line: none;
+  color:aqua;
+  font-size: 10px;
+
+}
+img{
+  height: 50px;
+  width: 50px;
+}
+p{
+  font-size: 7px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+.mission{
+  text-align: center;
+ 
+}
+body{
+  background-color:aliceblue;
+}
+.map{
+  height: 40px;
+  width: 40px;
+
+}
